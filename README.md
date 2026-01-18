@@ -46,10 +46,6 @@ I am a Full Stack Engineer based in Viseu, Portugal, specializing in building sc
 
 ---
 
-## 🔭 Personal Projects
+<!--## 🔭 Personal Projects
 * [**Project Name 1**](link_to_repo): Short description...
-* [**Project Name 2**](link_to_repo): Short description...
-
----
-
-[![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+* [**Project Name 2**](link_to_repo): Short description...-->
