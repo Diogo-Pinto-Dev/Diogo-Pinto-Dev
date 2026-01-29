@@ -1,51 +1,42 @@
-## Hi there 👋
-
-<!--
-**Diogo-Pinto-Dev/Diogo-Pinto-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there, I'm Diogo Pinto! 👋
-### 🚀 Software Engineer | Backend & Data Intensive Systems
+### 🚀 Software Engineer | Architecting the Future through Code
 
-I am a Full Stack Engineer based in Viseu, Portugal, specializing in building scalable backend architectures and distributed data pipelines.
+I am a **Software Engineering Graduate** based in Viseu, Portugal. My journey began in **Mozambique**, driven by a mission to pursue excellence in engineering and be a part of the global programming revolution. I specialize in building high-performance backend architectures, distributed data pipelines, and scalable server-side systems.
 
 ---
 
-## 🛠️ Tech Stack
-* **Languages:** Python (Expert), SQL, JavaScript
-* **Backend:** FastAPI, Django, SQLAlchemy
-* **Data Engineering:** Dask (Distributed), Pandas, NumPy, ETL Pipelines
-* **Infrastructure:** Podman (Rootless), Docker, Keycloak, Prometheus, Grafana
+## ⚡ My Mission
+I don't just write code; I design infrastructures. I am deeply invested in the intersection of **Software Engineering and Intelligent Automation**, leveraging cloud-native tools to build the reliable systems of tomorrow.
+
+---
+
+## 🛠️ Technical Ecosystem
+* [cite_start]**Backend Core:** Python (FastAPI, Django), Java (Spring Boot), SQLAlchemy [cite: 61, 62]
+* [cite_start]**Data & Scalability:** Dask (Distributed Computing), PostgreSQL (OLAP Optimization), ETL Pipelines [cite: 62, 70, 76]
+* [cite_start]**Infrastructure & Cloud-Native:** Podman/Docker (Rootless), Keycloak (OAuth2/OIDC), Linux Administration [cite: 63, 64, 72]
+* [cite_start]**Observability:** Prometheus, Grafana (Real-time system monitoring) [cite: 64, 73]
 
 ---
 
 ## 🏆 Featured Professional Work
 
-### 🚗 Automotive KPI Analysis Platform (Deloitte)
-*Designed and engineered a microservices-based data platform to process 5.7 million automotive sales records.*
+### 🚗 Automotive KPI Analysis Platform (Deloitte Internship)
+[cite_start]*Designed a microservices-based data platform to process **5.7 million** records.* [cite: 68, 70]
 
-* **Architecture:** Built a distributed system using **Podman Compose** to orchestrate ETL, Database, and API services.
-* **The Challenge:** Processing large-scale CSV data efficiently while strictly adhering to company security protocols (Rootless containers, RBAC).
-* **The Solution:**
-    * Replaced standard Pandas processing with **Dask Distributed** for parallel computing.
-    * Developed a **FastAPI** backend serving analytical data via secure endpoints.
-    * Implemented **Keycloak** (OAuth2/JWT) for granular access control (Admin/Manager roles).
-* **Tech:** Python, FastAPI, Dask, PostgreSQL (OLAP), Prometheus.
-* *Note: This project is proprietary and code cannot be shared publicly.*
+* [cite_start]**Scalability:** Migrated data workflows to **Dask Distributed** to handle large-scale parallel processing. [cite: 70, 71]
+* [cite_start]**Security:** Orchestrated a **Rootless Podman** architecture and implemented **RBAC** via Keycloak. [cite: 72, 74, 75]
+* [cite_start]**Performance:** Optimized **PostgreSQL** schemas for analytical queries, drastically reducing dashboard latency. [cite: 76]
+
+### 🔬 AI & Industrial Automation Research (ESTGV)
+[cite_start]*Applying high-performance computing to real-world industrial challenges.* [cite: 87, 91]
+
+* **High-Performance Computing:** Utilizing **NVIDIA CUDA** and **PyTorch** to optimize deep learning inference.
+* [cite_start]**Automation:** Training computer vision models for real-time object detection in industrial environments. [cite: 91]
 
 ---
 
-<!--## 🔭 Personal Projects
-* [**Project Name 1**](link_to_repo): Short description...
-* [**Project Name 2**](link_to_repo): Short description...-->
+## 📬 Connect with me
+* [cite_start]**LinkedIn:** [linkedin.com/in/diogo-pinto](https://www.linkedin.com/in/diogo-pinto-programmer/) [cite: 52]
+* [cite_start]**Email:** diogomiguel.pinto2@gmail.com [cite: 54]
+
+*"The best way to predict the future is to architect it."*
