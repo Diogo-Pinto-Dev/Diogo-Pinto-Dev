@@ -36,7 +36,7 @@ I don't just write code; I design infrastructures. I am deeply invested in the i
 ---
 
 ## 📬 Connect with me
-**LinkedIn:** [linkedin.com/in/diogo-pinto](https://www.linkedin.com/in/diogo-pinto-programmer/) [cite: 52]
+**LinkedIn:** [linkedin.com/in/diogo-pinto](https://www.linkedin.com/in/diogo-pinto-programmer/)
 **Email:** diogomiguel.pinto2@gmail.com
 
 *"The best way to predict the future is to architect it."*
