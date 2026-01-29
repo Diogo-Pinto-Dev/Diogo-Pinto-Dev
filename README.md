@@ -11,10 +11,10 @@ I don't just write code; I design infrastructures. I am deeply invested in the i
 ---
 
 ## 🛠️ Technical Ecosystem
-* [cite_start]**Backend Core:** Python (FastAPI, Django), Java (Spring Boot), SQLAlchemy [cite: 61, 62]
-* [cite_start]**Data & Scalability:** Dask (Distributed Computing), PostgreSQL (OLAP Optimization), ETL Pipelines [cite: 62, 70, 76]
-* [cite_start]**Infrastructure & Cloud-Native:** Podman/Docker (Rootless), Keycloak (OAuth2/OIDC), Linux Administration [cite: 63, 64, 72]
-* [cite_start]**Observability:** Prometheus, Grafana (Real-time system monitoring) [cite: 64, 73]
+**Backend Core:** Python (FastAPI, Django), Java (Spring Boot), SQLAlchemy [cite: 61, 62]
+**Data & Scalability:** Dask (Distributed Computing), PostgreSQL (OLAP Optimization), ETL Pipelines [cite: 62, 70, 76]
+**Infrastructure & Cloud-Native:** Podman/Docker (Rootless), Keycloak (OAuth2/OIDC), Linux Administration [cite: 63, 64, 72]
+**Observability:** Prometheus, Grafana (Real-time system monitoring) [cite: 64, 73]
 
 ---
 
@@ -23,20 +23,20 @@ I don't just write code; I design infrastructures. I am deeply invested in the i
 ### 🚗 Automotive KPI Analysis Platform (Deloitte Internship)
 [cite_start]*Designed a microservices-based data platform to process **5.7 million** records.* [cite: 68, 70]
 
-* [cite_start]**Scalability:** Migrated data workflows to **Dask Distributed** to handle large-scale parallel processing. [cite: 70, 71]
-* [cite_start]**Security:** Orchestrated a **Rootless Podman** architecture and implemented **RBAC** via Keycloak. [cite: 72, 74, 75]
-* [cite_start]**Performance:** Optimized **PostgreSQL** schemas for analytical queries, drastically reducing dashboard latency. [cite: 76]
+**Scalability:** Migrated data workflows to **Dask Distributed** to handle large-scale parallel processing. [cite: 70, 71]
+**Security:** Orchestrated a **Rootless Podman** architecture and implemented **RBAC** via Keycloak. [cite: 72, 74, 75]
+**Performance:** Optimized **PostgreSQL** schemas for analytical queries, drastically reducing dashboard latency. [cite: 76]
 
 ### 🔬 AI & Industrial Automation Research (ESTGV)
 [cite_start]*Applying high-performance computing to real-world industrial challenges.* [cite: 87, 91]
 
-* **High-Performance Computing:** Utilizing **NVIDIA CUDA** and **PyTorch** to optimize deep learning inference.
-* [cite_start]**Automation:** Training computer vision models for real-time object detection in industrial environments. [cite: 91]
+**High-Performance Computing:** Utilizing **NVIDIA CUDA** and **PyTorch** to optimize deep learning inference.
+**Automation:** Training computer vision models for real-time object detection in industrial environments. [cite: 91]
 
 ---
 
 ## 📬 Connect with me
-* [cite_start]**LinkedIn:** [linkedin.com/in/diogo-pinto](https://www.linkedin.com/in/diogo-pinto-programmer/) [cite: 52]
-* [cite_start]**Email:** diogomiguel.pinto2@gmail.com [cite: 54]
+**LinkedIn:** [linkedin.com/in/diogo-pinto](https://www.linkedin.com/in/diogo-pinto-programmer/) [cite: 52]
+**Email:** diogomiguel.pinto2@gmail.com
 
 *"The best way to predict the future is to architect it."*
